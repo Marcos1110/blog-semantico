@@ -12,6 +12,6 @@
 </div>
 
 ## 3. Preview
-Você pode ver o projeto completo clicando aqui -> <a href="https://clone-instagram-psi-nine.vercel.app/">Visualizar</a>
+Você pode ver o projeto completo clicando aqui -> <a href="https://blog-semantico-git-main-marcos1110s-projects.vercel.app/">Visualizar</a>
 
 ---
